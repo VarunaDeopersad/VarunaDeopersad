@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 my name is Varuna Deopersad and I am working on some cool and fun things!
 
 <!--
 **VarunaDeopersad/VarunaDeopersad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
